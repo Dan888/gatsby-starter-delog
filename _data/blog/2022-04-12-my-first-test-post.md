@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /First_Post
+path: /first-post
 date: 2022-04-12T12:58:14.327Z
 title: My First Test Post
 metaDescription: Testing 123.....
