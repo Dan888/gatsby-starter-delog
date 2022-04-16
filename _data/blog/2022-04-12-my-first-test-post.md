@@ -34,7 +34,41 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <style type="text/css"> .tg{border-collapse:collapse;border-spacing:0;margin:0px auto;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-xphl{border-color:#dae8fc;text-align:left;vertical-align:top} .tg .tg-e7ad{background-color:#cbcefb;border-color:inherit;font-family:inherit;font-size:16px;text-align:left;vertical-align:top} .tg .tg-k309{border-color:#cbcefb;text-align:left;vertical-align:top} .tg .tg-l5ph{border-color:#9698ed;text-align:left;vertical-align:top} .tg .tg-z80m{border-color:#ecf4ff;text-align:left;vertical-align:top} </style><table class="tg"><thead><tr><th class="tg-e7ad">Head</th><th class="tg-k309">pro</th><th class="tg-k309">con</th></tr></thead><tbody><tr><td class="tg-l5ph">row 1</td><td class="tg-z80m">A</td><td class="tg-xphl">B</td></tr><tr><td class="tg-l5ph">row 2</td><td class="tg-z80m">A</td><td class="tg-xphl">C</td></tr></tbody></table>
 </div>
 
-
+```html
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xphl{border-color:#dae8fc;text-align:left;vertical-align:top}
+.tg .tg-e7ad{background-color:#cbcefb;border-color:inherit;font-family:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-k309{border-color:#cbcefb;text-align:left;vertical-align:top}
+.tg .tg-l5ph{border-color:#9698ed;text-align:left;vertical-align:top}
+.tg .tg-z80m{border-color:#ecf4ff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e7ad">Head</th>
+    <th class="tg-k309">pro</th>
+    <th class="tg-k309">con</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l5ph">row 1</td>
+    <td class="tg-z80m">A</td>
+    <td class="tg-xphl">B</td>
+  </tr>
+  <tr>
+    <td class="tg-l5ph">row 2</td>
+    <td class="tg-z80m">A</td>
+    <td class="tg-xphl">C</td>
+  </tr>
+</tbody>
+</table>
+```
 
 Where can I get some?
 
