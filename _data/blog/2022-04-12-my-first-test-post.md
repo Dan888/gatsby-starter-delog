@@ -30,6 +30,12 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-## Where can I get some?
+<div>
+<style type="text/css"> .tg{border-collapse:collapse;border-spacing:0;margin:0px auto;} .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;} .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;} .tg .tg-xphl{border-color:#dae8fc;text-align:left;vertical-align:top} .tg .tg-e7ad{background-color:#cbcefb;border-color:inherit;font-family:inherit;font-size:16px;text-align:left;vertical-align:top} .tg .tg-k309{border-color:#cbcefb;text-align:left;vertical-align:top} .tg .tg-l5ph{border-color:#9698ed;text-align:left;vertical-align:top} .tg .tg-z80m{border-color:#ecf4ff;text-align:left;vertical-align:top} </style><table class="tg"><thead><tr><th class="tg-e7ad">Head</th><th class="tg-k309">pro</th><th class="tg-k309">con</th></tr></thead><tbody><tr><td class="tg-l5ph">row 1</td><td class="tg-z80m">A</td><td class="tg-xphl">B</td></tr><tr><td class="tg-l5ph">row 2</td><td class="tg-z80m">A</td><td class="tg-xphl">C</td></tr></tbody></table>
+</div>
+
+
+
+Where can I get some?
 
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
